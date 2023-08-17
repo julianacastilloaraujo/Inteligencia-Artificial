@@ -1,2 +1,6 @@
 # Inteligencia-Artificial
-Notas de Inteligencia Artificial 🤖 - VIII Semestre | UCundinamarca - Seccional Ubate 
+
+# Dia 1
+
+* Acuerdos y syllabus 
+* Asignacion porcentual 
