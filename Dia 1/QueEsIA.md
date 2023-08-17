@@ -8,6 +8,9 @@
 * Neural Nets
 * Deep Learning 
 
+# Descripcion de IA
+
+* Racionalidad de computacion
 
 # Clave de descripcion en los determinante de una matriz
 
