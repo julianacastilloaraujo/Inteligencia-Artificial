@@ -19,4 +19,3 @@
 # Como piensa el cerebro humano?
 
 * El cerebro humano no trabaja como un software modular
-* 
